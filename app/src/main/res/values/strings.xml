@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">demo_android</string>
+    <string-array name="planets_array">
+        <item>Jee</item>
+        <item>Gave</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Bootstrap</item>
+    </string-array>
+</resources>
